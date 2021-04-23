@@ -12,13 +12,11 @@ Admin Module :
 
 1.	Dashboard: In this section, admin can see all detail in brief like total property type, total country, total state, total city, total agent, total owner, total buyer(user) ant total property listed.
 2.	Property Type: In this section, the admin can manage property type (add/update).
-3.	Country: In this section, admin can manage country (add/update).
-4.	State: In this section, admin can manage state (add/update).
-5.	City: In this section, the admin can manage city (add/update).
-6.	Owner: In this section, admin can view the detail of the owners.
-7.	Agents: In this section, admin can view the detail of agents.
-8.	User: In this section, admin can view the detail of the user.
-9.	List of properties: In this section, admin can view details of the property listed,
+3.	City: In this section, the admin can manage city (add/update).
+4.	Owner: In this section, admin can view the detail of the owners.
+5.	Agents: In this section, admin can view the detail of agents.
+6.	User: In this section, admin can view the detail of the user.
+7.	List of properties: In this section, admin can view details of the property listed,
 	Reviews: In this section admin, can view reviews and also approved, disapproved and delete the reviews which is given by users.
 	Pages: In this section, the admin can manage about us and contact us pages.
 	Search Property: In this section admin, can search the listed property by its property id, name and mobile number.
